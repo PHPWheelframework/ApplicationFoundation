@@ -1,7 +1,7 @@
 {
-    "name": "wheel/apify",
-    "description": "Wheel API application skeleton.",
-    "keywords": ["skeleton", "api", "project"],
+    "name": "wheel/application-foundation",
+    "description": "Wheel application foundation.",
+    "keywords": ["application", "foundation", "project"],
     "homepage": "https://www.phpwheelframework.com",
     "type": "project",
     "license": "MIT",
